@@ -1,0 +1,341 @@
+[
+  {
+    "TripId": "panorama-transpacific-2024",
+    "TripName": "Carnival Panorama: Singapore to Long Beach (25 Days)",
+    "IsActiveTravel": true,
+    "Segments": [
+      {
+        "SegmentType": "Cruise",
+        "BookingNumber": "T7C6L7",
+        "CruiseLine": "Carnival",
+        "Ship": "Carnival Panorama",
+        "RoomType": "Journeys",
+        "Stateroom": null,
+        "DeparturePort": {
+          "PortName": "Singapore Cruise Centre",
+          "City": "Singapore",
+          "Province": null,
+          "CountryCode": "SG",
+          "Time": "2024-10-12T18:00:00+08:00"
+        },
+        "ArrivalPort": {
+          "PortName": "Port of Long Beach",
+          "City": "Long Beach",
+          "Province": "CA",
+          "CountryCode": "US",
+          "Time": "2024-11-05T09:00:00-08:00"
+        },
+        "PortsOfCall": [
+          {
+            "PortName": "Phu My (Ho Chi Minh City)",
+            "City": "Ho Chi Minh City",
+            "Province": null,
+            "CountryCode": "VN",
+            "Date": "2024-10-14"
+          },
+          {
+            "PortName": "Kota Kinabalu",
+            "City": "Kota Kinabalu",
+            "Province": null,
+            "CountryCode": "MY",
+            "Date": "2024-10-16"
+          },
+          {
+            "PortName": "Manila",
+            "City": "Manila",
+            "Province": null,
+            "CountryCode": "PH",
+            "Date": "2024-10-18"
+          },
+          {
+            "PortName": "Guam",
+            "City": "Hagatna",
+            "Province": null,
+            "CountryCode": "GU",
+            "Date": "2024-10-22"
+          },
+          {
+            "PortName": "Honolulu",
+            "City": "Honolulu",
+            "Province": "HI",
+            "CountryCode": "US",
+            "Date": "2024-10-29"
+          }
+        ],
+        "Source": "manual"
+      }
+    ]
+  },
+  {
+    "TripId": "mardi-gras-transatlantic-2025",
+    "TripName": "Mardi Gras: Barcelona to Port Canaveral",
+    "IsActiveTravel": true,
+    "Segments": [
+      {
+        "SegmentType": "Cruise",
+        "BookingNumber": "Z0VR92",
+        "CruiseLine": "Carnival",
+        "Ship": "Mardi Gras",
+        "RoomType": null,
+        "Stateroom": null,
+        "DeparturePort": {
+          "PortName": "Port of Barcelona",
+          "City": "Barcelona",
+          "Province": "CT",
+          "CountryCode": "ES",
+          "Time": "2025-10-16T19:00:00+02:00"
+        },
+        "ArrivalPort": {
+          "PortName": "Port Canaveral",
+          "City": "Cape Canaveral",
+          "Province": "FL",
+          "CountryCode": "US",
+          "Time": "2025-10-30T08:00:00-04:00"
+        },
+        "PortsOfCall": [
+          {
+            "PortName": "Malaga",
+            "City": "Malaga",
+            "Province": "AN",
+            "CountryCode": "ES",
+            "Date": "2025-10-18"
+          },
+          {
+            "PortName": "Cadiz (Seville)",
+            "City": "Cadiz",
+            "Province": "AN",
+            "CountryCode": "ES",
+            "Date": "2025-10-19"
+          },
+          {
+            "PortName": "Tenerife",
+            "City": "Santa Cruz de Tenerife",
+            "Province": "Canary Islands",
+            "CountryCode": "ES",
+            "Date": "2025-10-21"
+          },
+          {
+            "PortName": "Celebration Key",
+            "City": "Freeport",
+            "Province": null,
+            "CountryCode": "BS",
+            "Date": "2025-10-29"
+          }
+        ],
+        "Source": "manual"
+      }
+    ]
+  },
+  {
+    "TripId": "mardi-gras-caribbean-2025",
+    "TripName": "Mardi Gras: Eastern Caribbean",
+    "IsActiveTravel": true,
+    "Segments": [
+      {
+        "SegmentType": "Cruise",
+        "BookingNumber": "GJ85S0",
+        "CruiseLine": "Carnival",
+        "Ship": "Mardi Gras",
+        "RoomType": null,
+        "Stateroom": null,
+        "DeparturePort": {
+          "PortName": "Port Canaveral",
+          "City": "Cape Canaveral",
+          "Province": "FL",
+          "CountryCode": "US",
+          "Time": "2025-10-30T16:30:00-04:00"
+        },
+        "ArrivalPort": {
+          "PortName": "Port Canaveral",
+          "City": "Cape Canaveral",
+          "Province": "FL",
+          "CountryCode": "US",
+          "Time": "2025-11-08T08:00:00-05:00"
+        },
+        "PortsOfCall": [
+          {
+            "PortName": "Charlotte Amalie",
+            "City": "St. Thomas",
+            "Province": null,
+            "CountryCode": "VI",
+            "Date": "2025-11-02"
+          },
+          {
+            "PortName": "Philipsburg",
+            "City": "St. Maarten",
+            "Province": null,
+            "CountryCode": "SX",
+            "Date": "2025-11-03"
+          },
+          {
+            "PortName": "San Juan",
+            "City": "San Juan",
+            "Province": null,
+            "CountryCode": "PR",
+            "Date": "2025-11-04"
+          },
+          {
+            "PortName": "Amber Cove",
+            "City": "Puerto Plata",
+            "Province": null,
+            "CountryCode": "DO",
+            "Date": "2025-11-05"
+          },
+          {
+            "PortName": "Celebration Key",
+            "City": "Freeport",
+            "Province": null,
+            "CountryCode": "BS",
+            "Date": "2025-11-07"
+          }
+        ],
+        "Source": "manual"
+      }
+    ]
+  },
+  {
+    "TripId": "sapphire-baltic-2026",
+    "TripName": "Sapphire Princess: Copenhagen & Baltic",
+    "IsActiveTravel": true,
+    "Segments": [
+      {
+        "SegmentType": "Cruise",
+        "BookingNumber": "DXHVVQ",
+        "CruiseLine": "Princess Cruises",
+        "Ship": "Sapphire Princess",
+        "RoomType": "Interior",
+        "Stateroom": null,
+        "DeparturePort": {
+          "PortName": "Copenhagen Cruise Port",
+          "City": "Copenhagen",
+          "Province": null,
+          "CountryCode": "DK",
+          "Time": "2026-06-08T18:00:00+02:00"
+        },
+        "ArrivalPort": {
+          "PortName": "Copenhagen Cruise Port",
+          "City": "Copenhagen",
+          "Province": null,
+          "CountryCode": "DK",
+          "Time": "2026-06-20T05:00:00+02:00"
+        },
+        "PortsOfCall": [
+          {
+            "PortName": "Oslo",
+            "City": "Oslo",
+            "Province": null,
+            "CountryCode": "NO",
+            "Date": "2026-06-09"
+          },
+          {
+            "PortName": "Skagen",
+            "City": "Skagen",
+            "Province": null,
+            "CountryCode": "DK",
+            "Date": "2026-06-10"
+          },
+          {
+            "PortName": "Bornholm",
+            "City": "Bornholm",
+            "Province": null,
+            "CountryCode": "DK",
+            "Date": "2026-06-11"
+          },
+          {
+            "PortName": "Visby",
+            "City": "Visby",
+            "Province": null,
+            "CountryCode": "SE",
+            "Date": "2026-06-12"
+          },
+          {
+            "PortName": "Stockholm",
+            "City": "Stockholm",
+            "Province": null,
+            "CountryCode": "SE",
+            "Date": "2026-06-13"
+          },
+          {
+            "PortName": "Helsinki",
+            "City": "Helsinki",
+            "Province": null,
+            "CountryCode": "FI",
+            "Date": "2026-06-14"
+          },
+          {
+            "PortName": "Tallinn",
+            "City": "Tallinn",
+            "Province": null,
+            "CountryCode": "EE",
+            "Date": "2026-06-15"
+          },
+          {
+            "PortName": "Riga",
+            "City": "Riga",
+            "Province": null,
+            "CountryCode": "LV",
+            "Date": "2026-06-16"
+          },
+          {
+            "PortName": "Gdansk (Gdynia)",
+            "City": "Gdynia",
+            "Province": null,
+            "CountryCode": "PL",
+            "Date": "2026-06-18"
+          }
+        ],
+        "Source": "manual"
+      }
+    ]
+  },
+  {
+    "TripId": "liberty-hamburg-bruges-2026",
+    "TripName": "Liberty of the Seas: Hamburg & Bruges",
+    "IsActiveTravel": true,
+    "Segments": [
+      {
+        "SegmentType": "Cruise",
+        "BookingNumber": "8553297",
+        "CruiseLine": "Royal Caribbean",
+        "Ship": "Liberty of the Seas",
+        "RoomType": "Spacious Ocean View Balcony (2B)",
+        "Stateroom": "8248",
+        "DeparturePort": {
+          "PortName": "Port of Southampton",
+          "City": "Southampton",
+          "Province": null,
+          "CountryCode": "GB",
+          "Time": "2026-06-21T17:00:00+01:00"
+        },
+        "ArrivalPort": {
+          "PortName": "Port of Southampton",
+          "City": "Southampton",
+          "Province": null,
+          "CountryCode": "GB",
+          "Time": "2026-06-26T05:30:00+01:00"
+        },
+        "PortsOfCall": [
+          {
+            "PortName": "Hamburg",
+            "City": "Hamburg",
+            "Province": null,
+            "CountryCode": "DE",
+            "Date": "2026-06-23",
+            "ArriveTime": "08:00",
+            "DepartTime": "20:00"
+          },
+          {
+            "PortName": "Bruges (Zeebrugge)",
+            "City": "Zeebrugge",
+            "Province": null,
+            "CountryCode": "BE",
+            "Date": "2026-06-25",
+            "ArriveTime": "08:00",
+            "DepartTime": "17:00"
+          }
+        ],
+        "Source": "manual"
+      }
+    ]
+  }
+]
