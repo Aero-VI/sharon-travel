@@ -1,0 +1,28 @@
+name: Cache Bust & Deploy
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - '.github/**'
+jobs:
+  bust:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Cache bust assets
+        run: |
+          for f in js/geocode.js js/globe.js js/app.js css/style.css; do
+            HASH=$(md5sum "$f" | cut -c1-8)
+            BASENAME=$(basename "$f")
+            # Remove old hash param if present
+            sed -i "s|${BASENAME}?h=[a-f0-9]*|${BASENAME}?h=${HASH}|g" index.html
+          done
+      - name: Commit if changed
+        run: |
+          git config user.name "Azula"
+          git config user.email "azula@aero.vi"
+          git diff --quiet index.html || (git add index.html && git commit -m "chore: cache bust assets" && git push)
