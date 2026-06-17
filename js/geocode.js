@@ -1,7 +1,9 @@
 // Geocode database for Sharon's travel locations
 const GEOCODE = {
   busStations: {},
-  airports: {},
+  airports: {
+    CPH:[55.618,12.6508],LHR:[51.4700,-0.4543]
+  },
   ports: {
     // Panorama transpacific
     'Singapore':[1.2644,103.8200],
